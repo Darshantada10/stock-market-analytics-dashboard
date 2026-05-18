@@ -1,1 +1,23 @@
-data/raw/**/*.csv
+# Power BI temp files
+*.tmp
+*.pbix~
+
+# SQL Server
+*.bak
+*.ldf
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Exported data
+data/exports/
+
+# Processed data
+data/processed/
+
+# Raw datasets
+data/raw/
