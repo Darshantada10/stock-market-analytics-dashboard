@@ -38,6 +38,11 @@ End-to-end analytics pipeline analyzing 47 NIFTY 50 companies' stock price movem
 - ✅ Anomaly detection & validation
 - ✅ Insights & business recommendations
 
+## Data Setup
+1. Download NIFTY 50 dataset from Kaggle: https://www.kaggle.com/datasets/rockyjoseph/nifty-50-stock-market-data-2000-2023
+2. Extract all 46 CSV files to: `data/raw/`
+3. Run `sql/02_load_data.sql` to load data into SQL Server
+
 ## How to Use
 1. Clone repository
 2. Load NIFTY data into SQL Server using `sql/01_create_schema.sql`
