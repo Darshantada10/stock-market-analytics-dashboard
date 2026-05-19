@@ -69,3 +69,4 @@ WHERE daily_return_pct IS NOT NULL
 
 ORDER BY volatility_rank;
 GO
+
