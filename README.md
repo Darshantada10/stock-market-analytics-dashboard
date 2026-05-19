@@ -173,5 +173,5 @@ Author
 Darshan Tada
 
 GitHub: https://github.com/Darshantada10
-LinkedIn: www.linkedin.com/in/darshantada
+LinkedIn: https://linkedin.com/in/darshantada
 Email: darshantadaofficial@gmail.com
